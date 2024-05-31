@@ -59,10 +59,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    padding: 10px 0;    
 }
 
 /* Selettore di Lingua */
@@ -86,7 +83,7 @@ footer {
 
 /* Main Content */
 main {
-    margin-bottom: 80px; /* Space for fixed footer */
+    margin-bottom: 40px; /* Space for fixed footer */
 }
 
 /* Form */
